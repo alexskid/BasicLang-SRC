@@ -1,2 +1,2 @@
 # BasicLang-SRC
-Full "cleanend" from licience
+Open source simple batch constructor
